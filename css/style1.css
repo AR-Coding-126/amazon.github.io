@@ -60,6 +60,13 @@ header {
    
    
   }
+  .logo{
+    padding-top: 12px;
+    padding-left: 580px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   
   .footer_1 {
     width: max;
